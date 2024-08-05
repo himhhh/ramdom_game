@@ -1,1 +1,1 @@
-Using Chatgpt
+This project is powered by ChatGPT
